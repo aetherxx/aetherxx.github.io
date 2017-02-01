@@ -1,0 +1,180 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #000000 url("../../images/mobilebackground.jpg") no-repeat right bottom fixed;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 311px;
+	min-height: 195px;
+	padding: 221px 43px 154px 26px;
+}
+
+#u1763
+{
+	z-index: 2;
+	width: 275px;
+	height: 48px;
+}
+
+#ppu1530
+{
+	width: 0.01px;
+	margin-left: 168px;
+	top: -12px;
+	margin-bottom: -12px;
+	position: relative;
+}
+
+#pu1530
+{
+	z-index: 8;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1531-4
+{
+	z-index: 9;
+	position: relative;
+	width: 143px;
+	margin-right: -10000px;
+}
+
+#u1795
+{
+	z-index: 13;
+	width: 143px;
+	height: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#ppu1524
+{
+	width: 0.01px;
+	margin-left: 168px;
+	margin-top: 37px;
+	position: relative;
+}
+
+#pu1524
+{
+	z-index: 3;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1530,#u1524
+{
+	z-index: 0;
+	width: 143px;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+._u1530.f3s_top,._u1524.f3s_top
+{
+	width: 143px;
+	background-image: url("../../images/u1530-sprite.png");
+	overflow: hidden;
+	height: 15px;
+	background-position: left top;
+}
+
+._u1530.f3s_mid,._u1524.f3s_mid
+{
+	background-image: url("../../images/u1530-sprite.png");
+	overflow: visible;
+	background-position: -143px top;
+	width: 143px;
+	height: 32px;
+}
+
+._u1530.f3s_bot,._u1524.f3s_bot
+{
+	width: 143px;
+	background-image: url("../../images/u1530-sprite.png");
+	overflow: visible;
+	height: 14px;
+	background-position: -285.9499999999998px top;
+}
+
+#pu1531-4,#pu1526-4
+{
+	width: 0.01px;
+	position: relative;
+	padding-top: 20px;
+	z-index: 2;
+	padding-bottom: 20px;
+}
+
+#u1526-4
+{
+	z-index: 4;
+	position: relative;
+	width: 143px;
+	margin-right: -10000px;
+}
+
+#u1531-4_img,#u1526-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u1796
+{
+	z-index: 14;
+	width: 143px;
+	height: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.ie #u1795,.ie #u1796
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

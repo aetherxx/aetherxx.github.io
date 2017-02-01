@@ -1,0 +1,53 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3935390548"/>
+    <file name="master_a-master.css" crc="473099665" ref="index"/>
+    <file name="index.css" crc="355168905" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>received:index"/>
+    <file name="museutils.js" crc="3865766194" ref="phone>index:phone>received:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:phone>received:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:phone>received:index"/>
+    <file name="museredirect.js" crc="236897542" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="form_check.php" crc="3931498385" ref="index"/>
+    <file name="form_throttle.php" crc="4211444717" ref="index"/>
+    <file name="form-u1313.php" crc="4255748486" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mobilebackground.jpg" crc="11634027" ref="phone>index:phone>received"/>
+    <file name="sleeping.png" crc="83011673" ref="phone>index"/>
+    <file name="u1530-sprite.png" crc="3932337494" ref="phone>index:phone>received"/>
+    <file name="u1531-4.png" crc="419818682" ref="phone>index"/>
+    <file name="u1526-4.png" crc="4154198578" ref="phone>index"/>
+    <file name="u1646-4.png" crc="4028346359" ref="phone>received"/>
+    <file name="u1648-4.png" crc="4154198578" ref="phone>received"/>
+    <file name="angelsinstead.net-favicon.ico" crc="4143902901" ref="index"/>
+    <file name="dsc_4648.jpg" crc="4141026353" ref="index"/>
+    <file name="u97-4.png" crc="339373172" ref="index"/>
+    <file name="u139-4.png" crc="4024171655" ref="index"/>
+    <file name="u1455-4.png" crc="4027018028" ref="index"/>
+    <file name="undercoback-u1312-fr.png" crc="4021408468" ref="index"/>
+    <file name="u1325-21.png" crc="3990433401" ref="index"/>
+    <file name="u1325-21-r.png" crc="512275176" ref="index"/>
+    <file name="u1325-21-m.png" crc="512275176" ref="index"/>
+    <file name="u1325-21-fs.png" crc="4249740421" ref="index"/>
+    <file name="undercoback-u1419-fr.png" crc="3807697685" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3865459038" ref="phone>received:phone>index"/>
+      <file name="received.css" crc="515719213" ref="phone>received"/>
+      <file name="index.css" crc="4279464640" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3894144124" mt="1386497691266" redirect="true"/>
+    <file name="received.html" crc="4143712618" mt="1386497691267" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="196038436" mt="1485946782551" redirect="true"/>
+</manifest>
